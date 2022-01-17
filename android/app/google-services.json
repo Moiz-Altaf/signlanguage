@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337502713847",
+    "project_id": "sign-translator-fbd47",
+    "storage_bucket": "sign-translator-fbd47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337502713847:android:488bb676f0eeafa79ae0f2",
+        "android_client_info": {
+          "package_name": "com.example.signtranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337502713847-h4g91cc09kijaqm6volivqcgmgg42fus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFlRrIJ5ux91-92vuFJtGZn38iIP8ReZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337502713847-h4g91cc09kijaqm6volivqcgmgg42fus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
